@@ -1,4 +1,4 @@
-# RentACar
+# RentACar C# .NET Core Clean Architecture & CQRS Proje Altyapı Kursu 1 - 2 - 3 - 4
 DDD odaklı Clean Architecture İmplementasyonu
 
 CQRS (Command Query Responsibility Segregeation)
