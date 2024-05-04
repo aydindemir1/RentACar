@@ -1,4 +1,8 @@
 # RentACar C# .NET Core Clean Architecture & CQRS Proje Altyapı Kursu 1 - 2 - 3 - 4
+
+C# .NET ile kurumsal altyapı geliştiriyoruz. CQRS, Clean Architecture, DDD, Pipeline, code generation ve çok fazlası.
+
+
 DDD odaklı Clean Architecture İmplementasyonu
 
 CQRS (Command Query Responsibility Segregeation)
@@ -16,8 +20,6 @@ Gelişmiş ve best practice odaklı Entity Framework İmplementasyonu
 API implementasyonu
 
 Extension yazım teknikleri
-
-ve bir çok alt konu
 
 Çoklu ve ilişkili domain modelleme
 
